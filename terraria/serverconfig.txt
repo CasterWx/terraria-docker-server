@@ -1,0 +1,7 @@
+world=/opt/terraria/Worlds/AntzUhl-Docker-World.wld
+#autocreate=3
+#worldname=AntzUhl-Docker-World
+#difficulty=0
+maxplayers=200
+password=docker
+worldpath=/opt/terraria/Worlds
