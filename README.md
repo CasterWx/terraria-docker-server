@@ -8,15 +8,15 @@
 
 2. 下载该仓库中文件
 
-'''
+```
 git clone "https://github.com/CasterWx/terraria-docker-server.git"
-'''
+```
 
-3. 在仓库根目录["terraria-docker-server"]下执行build命令
+3. 在仓库目录terraria-docker-server下执行build命令
 
-'''
+```
 docker build -t terraria-docker-server:lastest .
-'''
+```
 
 等待构建完成.
 
@@ -38,11 +38,11 @@ docker run -id --name "terraria-server" -p 7778:7777 terraria-docker-server:last
 
 服务器密码默认为'docker'
 
-![image.png](http://antzuhl.cn/upload/2020/3/image-a740ff2eceda438889f9264a66f9583b.png)
+![image1.png](http://antzuhl.cn/upload/2020/3/image-a740ff2eceda438889f9264a66f9583b.png)
 
-![image.png](http://antzuhl.cn/upload/2020/3/image-39d5ff029ba94e37abbfcae4ed53265b.png)
+![image2.png](http://antzuhl.cn/upload/2020/3/image-39d5ff029ba94e37abbfcae4ed53265b.png)
 
-![image.png](http://antzuhl.cn/upload/2020/3/image-ddb58b5d9fd44a21861b23624883ff2b.png)
+![image3.png](http://antzuhl.cn/upload/2020/3/image-ddb58b5d9fd44a21861b23624883ff2b.png)
 
 ### 其他
 
